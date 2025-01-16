@@ -9,7 +9,6 @@ Ce site est conçu pour afficher des évènements musicaux. Il mettra en avant d
 - Gris clair : #f9f9f9
 
 ## Liens utiles
-- [Inspiration design](https://dribbble.com)
 - [Documentation Next.js](https://nextjs.org/docs)
 
 ## Wireframes
